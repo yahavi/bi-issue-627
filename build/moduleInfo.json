@@ -1,0 +1,26 @@
+{
+  "id" : ":gradle-example-minimal:1.0-SNAPSHOT",
+  "artifacts" : [ {
+    "type" : "all-jar",
+    "sha1" : "be2f8bcca83bbffee8cf8d1c483a989953b03021",
+    "md5" : "11dc883a2786ff1453987cef9ae83e90",
+    "name" : "gradle-example-minimal-1.0-SNAPSHOT-all.jar"
+  }, {
+    "type" : "javadoc-jar",
+    "sha1" : "ab2fb9dd8f9e41d6ac723943cdd23224a1b9c91c",
+    "md5" : "e1539ba97fa4e5de11b5ebff280c5c35",
+    "name" : "gradle-example-minimal-1.0-SNAPSHOT-javadoc.jar"
+  }, {
+    "type" : "sources-jar",
+    "sha1" : "d372d8206b75d27b9e04736aee8a9dce4b0c5de4",
+    "md5" : "c5696ab2df80afb980625a6eb583f317",
+    "name" : "gradle-example-minimal-1.0-SNAPSHOT-sources.jar"
+  }, {
+    "type" : "pom",
+    "sha1" : "994b93b5176ec1bdf95e62be005d2b47bcbc183f",
+    "md5" : "180441dea1cb4ca7bf7141ebbd72b327",
+    "name" : "gradle-example-minimal-1.0-SNAPSHOT.pom"
+  } ],
+  "excludedArtifacts" : [ ],
+  "dependencies" : [ ]
+}
